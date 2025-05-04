@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tiger Body -->
+  <path d="M120 180c33.137 0 60-26.863 60-60s-26.863-60-60-60-60 26.863-60 60 26.863 60 60 60z" fill="#FF9800"/>
+  <path d="M120 170c27.614 0 50-22.386 50-50s-22.386-50-50-50-50 22.386-50 50 22.386 50 50 50z" fill="#FFA726"/>
+  
+  <!-- Tiger Stripes -->
+  <path d="M90 100c0 0 10-15 30-15s30 15 30 15" stroke="#E65100" stroke-width="4"/>
+  <path d="M85 120c0 0 15-20 35-20s35 20 35 20" stroke="#E65100" stroke-width="4"/>
+  <path d="M80 140c0 0 20-25 40-25s40 25 40 25" stroke="#E65100" stroke-width="4"/>
+  
+  <!-- Tiger Face -->
+  <circle cx="105" cy="110" r="5" fill="#000000"/> <!-- Left Eye -->
+  <circle cx="135" cy="110" r="5" fill="#000000"/> <!-- Right Eye -->
+  <path d="M120 125l-10 10h20z" fill="#000000"/> <!-- Nose -->
+  <path d="M110 135c0 0 5 5 10 5s10-5 10-5" stroke="#000000" stroke-width="2" fill="none"/> <!-- Mouth -->
+  
+  <!-- Tiger Ears -->
+  <path d="M95 85l-10-10l10-5z" fill="#FFA726"/>
+  <path d="M145 85l10-10l-10-5z" fill="#FFA726"/>
+  
+  <!-- Rope -->
+  <path d="M120 30v60" stroke="#8D6E63" stroke-width="6"/>
+  <circle cx="120" cy="30" r="5" fill="#8D6E63"/>
+</svg> 
